@@ -1,5 +1,5 @@
 ## GeetaGPT
-GeetaCPT is a web application that allows users to ask questions and receive answers in the style of Lord Krishna from the Bhagavad Gita. This project utilizes HTML, CSS, JavaScript, and the OpenAI API to provide users with spiritually inspired responses to their inquiries.
+GeetaGPT is a web application that allows users to ask questions and receive answers in the style of Lord Krishna from the Bhagavad Gita. This project utilizes HTML, CSS, JavaScript, and the OpenAI API to provide users with spiritually inspired responses to their inquiries.
 
 ## Technologies Used 
 - HTML : Used for creating the structure and layout of the web pages.
@@ -8,7 +8,7 @@ GeetaCPT is a web application that allows users to ask questions and receive ans
 - OpenAI API : Utilized for generating responses to user questions based on the Bhagavad Gita teachings.
 
 ## How to Run the App 
-To run the GeetaCPT web application locally, follow these steps :
+To run the GeetaGPT web application locally, follow these steps :
 - Clone the repository to your local machine.
 - Navigate to the project directory.
 - Open the index.html file in your preferred web browser.
