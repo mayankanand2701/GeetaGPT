@@ -8,8 +8,8 @@ body{
 }
 .container{
     padding: 25px;
-    background-color: white;
-    height: 70vh;
+    background-color:azure;
+    height: 60vh;
     border-radius: 20px;
 }
 .qcontainer{
@@ -33,6 +33,19 @@ body{
     width: 8vh;
     font-size: larger;
     margin-right:2%;
+}
+body h3{
+    margin-top: 2%;
+    color:white;
+    text-align: center;
+}
+body h3 span{
+    color:cyan;
+    font-style: italic;
+}
+
+body h3 img{
+    width: 2%;
 }
 
 
